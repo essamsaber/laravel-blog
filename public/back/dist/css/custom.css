@@ -1,0 +1,31 @@
+body{
+	font-family: 'DroidArabicKufiRegular'; 
+    font-weight: normal; 
+    font-style: normal; 
+}
+
+/*Login form  style */
+input[type="password"]:-moz-placeholder {
+    text-align: right;
+}
+input[type="password"]:-ms-input-placeholder {
+    text-align: right;
+}
+input[type="password"]::-webkit-input-placeholder {
+    text-align: right;
+}
+
+input[type="email"]:-moz-placeholder {
+    text-align: right;
+}
+input[type="email"]:-ms-input-placeholder {
+    text-align: right;
+}
+input[type="email"]::-webkit-input-placeholder {
+    text-align: right;
+}
+
+.logininput{
+	text-align: right;
+}
+/*Login form  style endddddddddddddddddddddddddddd*/ 
